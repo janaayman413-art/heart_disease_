@@ -22,4 +22,6 @@ This project aims to predict the risk of heart disease using Machine Learning te
 To set up the project, install the required dependencies:
 ```bash
 pip install -r requirements.txt
+
+
  URL: https://b6243bbd019cb80885.gradio.live
