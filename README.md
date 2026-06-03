@@ -24,4 +24,4 @@ To set up the project, install the required dependencies:
 pip install -r requirements.txt
 
 
- URL: https://b6243bbd019cb80885.gradio.live
+ APP URL: https://b6243bbd019cb80885.gradio.live
