@@ -1,4 +1,4 @@
-readme_content = """
+
 # Heart Disease Prediction Project
 
 ## Project Overview
