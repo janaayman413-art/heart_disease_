@@ -51,7 +51,7 @@ Dataset Link:
 # Project Structure
 
 ```bash
-├── Heart_Disease_Project_jaa5_f.ipynb
+├── Heart_Disease_Project_jANA2.ipynb
 ├── app.py
 ├── heart_attack_model.pkl
 ├── requirements.txt
