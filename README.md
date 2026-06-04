@@ -140,7 +140,8 @@ APP URL:
   https://2bfa3f16eab5a09d95.gradio.live
 
 Application Preview
-<img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/090d428c-3497-4a63-9f44-d03f107e7487" />
+<img width="1361" height="599" alt="image" src="https://github.com/user-attachments/assets/b1dfb0e7-d0cc-45a7-9f4f-928a8ebf1f3e" />
+
 
 
 # Demo Video
