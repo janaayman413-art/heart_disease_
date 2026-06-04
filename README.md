@@ -70,7 +70,7 @@ Dataset Link:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/janaayman413-art/heart_disease_
 ```
 
 Install dependencies:
@@ -147,7 +147,7 @@ Application Preview
 # Demo Video
 
 Project Demo Video:
-[Add your video link here]
+[https://drive.google.com/file/d/1IdUefRdURtgvKiaOoLkXrSgLwYFGEKBr/view?usp=drivesdk]
 
 
 
@@ -161,7 +161,7 @@ Example outputs and visualizations are included in the notebook.
 
 # Team Members
 
-* Jana Ayman
+* Jana Ayman Saad
 
 ---
 
